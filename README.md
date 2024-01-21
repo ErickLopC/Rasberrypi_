@@ -18,10 +18,12 @@ Se instalo en SD 2 RASBERRY Y en este se instalaron los sigueintes paquete
 ->PacMan
 
 
-## conexión con matlab 
+##  [conexión con matlab ](https://github.com/ErickLopC/MTALAB_MAS_RASBERY)
 ver que tarjeta teiene compatibiidad de matalb cn rasberry pi no todas tienen compatabilidad
 
 en mi caso tengo matlab 2022 y rasberrypi 4 model B
+
+
 
 ##
 
