@@ -57,3 +57,13 @@ configuraciones en wondows para trabajar comandamente
 tener instalado
 
 ## Abvance IP SCANNER
+
+
+
+
+# TEAM VIER
+
+
+INSTALARCION EN UBUNTU
+
+https://www.youtube.com/watch?v=35x4G8wTfpo
